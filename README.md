@@ -10,7 +10,7 @@
 
 I hold a **PhD in Economics from Jawaharlal Nehru University** and currently serve as an **Associate Research Fellow** at the *Institute for Human Development, New Delhi*.
 
-My research explores **health-related decision-making under risk and uncertainty**, and the **policy impacts within the health sector**. I employ techniques like **stated preference surveys** and **discrete choice experiments**, integrating them with **environmental, educational, and labor economics**.
+My research examines how individuals and households make health-related decisions in contexts of risk and uncertainty, with a focus on evaluating the equity and effectiveness of health and development policies. I apply empirical tools such as stated preference methods, discrete choice experiments, and econometric modeling, often intersecting with issues in education, labor markets, and environmental health.
 
 ---
 
