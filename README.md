@@ -1,3 +1,4 @@
+![logo]
 ### 👋 Hi, I'm MD Azharuddin Akhtar – Economist | Researcher | Educator
 
 Welcome to my GitHub profile!
