@@ -14,10 +14,9 @@ My research focuses on the policy impacts within the health sector and the explo
 
 🎓 **Academic & Research Interests**
 
-- 📈 **Microeconomics** – Consumer behavior, market structures, and decision-making processes
-- 📊 **Applied Econometrics** – Panel data analysis, causal inference, and statistical modeling
-- 🎲 **Risk and Uncertainty** – Decision-making under uncertainty, health risk valuation
-- 🌍 **Development Economics** – Poverty alleviation, education, health disparities, and policy evaluation
+- 📈 **Microeconomics** – Consumer Behavior and Market Structures
+- 📊 **Applied Econometrics** – Cross-sectional. Time-series, Panel data analysis, Causal inference, and Statistical modeling
+- 🎲 **Risk and Uncertainty** – Decision-making under uncertainty, Health risk valuation
 
 ---
 
@@ -27,7 +26,7 @@ For a comprehensive list of my recent projects and publications, please visit my
 
 ---
 
-🛠️ **Skills & Tools**
+🛠️ **Software and Database**
 
 - **Statistical Software**: STATA, R, Python
 - **Econometric Techniques**: Cross Sectional, Time Series, and Panel
@@ -36,30 +35,30 @@ For a comprehensive list of my recent projects and publications, please visit my
 
 ---
 
-📚 **Selected Works**
+📚 **Working Paper**
 
-- *Socioeconomic-related Disparities in Child Immunization* (Job Market Paper)
-- *Economic Burden of Cancer in India*
-- *Willingness to Pay for Cancer Risk Reduction*
-- *Horizontal and Vertical Inequities in Healthcare Use*
+- *Smoke and Mirrors: Unveiling the Impact of Tobacco Use on Educational Outcomes in Low-Income States of Uttar Pradesh and Bihar, India”* 
+- *Learning Under the Influence: The Effects of Tobacco, Alcohol, and Drug Use on Education in India’s Poorest States*
+- *Informed Choice under Risks: Prevention-Treatment Trade-off in Context of Cancer* (Job Market Paper)
+- *stimating Health-Wealth Utility Function under State-dependence of Cancer Patients*
 
 ---
 
 🧩 **What I'm Currently Exploring**
 
-- Gendered impacts of substance abuse on education
-- State-dependence in health utility and valuation
-- CSR initiatives in health and sanitation in India
+- Impacts of substance abuse on education
+- State-dependence in health - wealth utility function
+- Catastrophic health expenditure risk exposure
 - Political economy and governance – criminalization of politics in India
 
 ---
 
 📫 **Let's Connect**
 
-- 💼 [LinkedIn](#)  
-- 📄 [CV or Personal Website](#)  
-- 📧 Reach me at [your.email@domain.com]  
-- 🌐 [Google Scholar / ResearchGate](#)
+- 💼 [LinkedIn]([#](https://www.linkedin.com/in/azharuddin07/))  
+- 📄 [CV or Personal Website]([#](https://sites.google.com/view/azharuddin07/home))  
+- 📧 Reach me at [azharuddin.akhtar@gmail.com]  
+- 🌐 [Google Scholar / ResearchGate]([#](https://scholar.google.com/citations?user=qPKYW08AAAAJ&hl=en))
 
 ---
 
