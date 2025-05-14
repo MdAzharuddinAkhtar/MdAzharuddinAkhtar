@@ -55,10 +55,10 @@ For a comprehensive list of my recent projects and publications, please visit my
 
 📫 **Let's Connect**
 
-- 💼 [LinkedIn]([#](https://www.linkedin.com/in/azharuddin07/))  
-- 📄 [CV or Personal Website]([#](https://sites.google.com/view/azharuddin07/home))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/azharuddin07/)  
+- 📄 [CV or Personal Website](https://sites.google.com/view/azharuddin07/home)
 - 📧 Reach me at [azharuddin.akhtar@gmail.com]  
-- 🌐 [Google Scholar / ResearchGate]([#](https://scholar.google.com/citations?user=qPKYW08AAAAJ&hl=en))
+- 🌐 [Google Scholar / ResearchGate](https://scholar.google.com/citations?user=qPKYW08AAAAJ&hl=en)
 
 ---
 
