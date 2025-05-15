@@ -1,4 +1,4 @@
-![logo]()
+![logo](Image.png)
 <h1 align="center">👋 Hi, I'm <span style="color:#2E86C1;">MD Azharuddin Akhtar</span></h1>
 <h3 align="center">Researcher | Educator</h3>
 
