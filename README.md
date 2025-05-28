@@ -59,7 +59,7 @@ My research examines how individuals and households make health-related decision
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/azharuddin07/)  
 - 📄 [Website](https://sites.google.com/view/azharuddin07/home)  
-- 📧 Email: azharuddin.akhtar@gmail.com  
+- 📧 [Email] (azharuddin.akhtar@gmail.com) 
 - 🌐 [Google Scholar](https://scholar.google.com/citations?user=qPKYW08AAAAJ&hl=en)  
 
 ---
