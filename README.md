@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-I hold a **PhD in Economics from Jawaharlal Nehru University** and currently serve as an **Associate Research Fellow** at the *Institute for Human Development, New Delhi*.
+I hold a **PhD in Economics from Jawaharlal Nehru University** and currently serve as an **Assistant Professor** at the *BML Munjal University, Haryana*.
 
 My research examines how individuals and households make health-related decisions in contexts of risk and uncertainty, with a focus on evaluating the equity and effectiveness of health and development policies. I apply empirical tools such as stated preference methods, discrete choice experiments, and econometric modeling, often intersecting with issues in education, labor markets, and environmental health.
 
@@ -57,10 +57,8 @@ My research examines how individuals and households make health-related decision
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/azharuddin07/)  
-- 📄 [Website](https://sites.google.com/view/azharuddin07/home)  
-- 📧 [Email] (azharuddin.akhtar@gmail.com) 
-- 🌐 [Google Scholar](https://scholar.google.com/citations?user=qPKYW08AAAAJ&hl=en)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/azharuddin07/)    
+- 📧 [Email] (azharuddin.akhtar@gmail.com)  
 
 ---
 
